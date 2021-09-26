@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Utkarsh-Raj20
+- 👋 Hi, I’m Utkarsh Raj
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and java
 - 📫 How to reach me utkarshraj.code@gmail.com
 
 <!---
