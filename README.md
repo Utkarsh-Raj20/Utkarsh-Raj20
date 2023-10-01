@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh Raj
-- 👀 I’m interested in Coading
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python and java
 - 📫 Reach me through utkarshraj.code@gmail.com
 
